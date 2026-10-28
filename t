@@ -1,4 +1,4 @@
-import * as anchor from "@coral-xyz/anchor";
+ests/sorare-escrow.tsimport * as anchor from "@coral-xyz/anchor";
 import { Program, BN } from "@coral-xyz/anchor";
 import { Keypair, LAMPORTS_PER_SOL, PublicKey, SystemProgram } from "@solana/web3.js";
 import { expect } from "chai";
